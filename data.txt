@@ -1,0 +1,1 @@
+Google|15,12,Irfan 10,12,Bob 14,13,Ted|16,15,Jeff 30,43,Mark|Hi:35.320000 Low:12.320000 Last:15.000000 Bid:15.000000 BidSize:12 Ask:30.000000 AskSize:43

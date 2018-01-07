@@ -1,0 +1,17 @@
+company|MAXHEAP Amount,Shares,Name Amount,Shares,Name Amount,Shares,Name|MINHEAP Amount,Shares,Name Amount,Shares,Name|DATA Hi:Amount Low:Amount Last:Amount Bid:Amount BidSize:Amount Ask:Amount AskSize:Amount
+
+Google|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+Apple|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+Facebook|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+AMZN|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+
+
+Google|||Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+Apple|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+Facebook|10,12,Bob 14,13,Ted|13,5,Robert 30,43,Mark|Hi:35.32 Low:12.32 Last:30.20 Bid:50.01 BidSize:14 Ask:30.02 AskSize:12
+
+
+
+Google|14,13,Ted 13,13,Jeff 15,12,Joe 15,10,Smith 17,15,Topham 10,12,Bob|14,10,Robert 15,13,Fanqi 15,10,Irfan 17,12,Samah  30,43,Mark 10,20,Sally|Hi:35.320000 Low:12.320000 Last:30.200001 Bid:50.009998 BidSize:14 Ask:30.020000 AskSize:12
+Apple|14,13,Ted 14,13,Jeff 15,12,Joe 15,10,Smith 17,15,Topham 10,12,Bob|14,10,Robert 15,13,Fanqi 10,15,Irfan 17,12,Samah 30,43,Mark 17,100,Sally|Hi:35.320000 Low:12.320000 Last:30.200001 Bid:50.009998 BidSize:14 Ask:30.020000 AskSize:12
+Facebook|14,13,Ted 14,13,Jeff 15,12,Joe 15,10,Smith 17,15,Topham 10,12,Bob|14,13,Robert 15,13,Fanqi 10,15,Irfan 17,12,Samah 30,43,Mark 21,50,Sally|Hi:35.320000 Low:12.320000 Last:30.200001 Bid:50.009998 BidSize:14 Ask:30.020000 AskSize:12
